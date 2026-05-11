@@ -46,14 +46,6 @@ public class MatheusArtioli {
 }
 ```
 
----
-
-## Sobre
-
-Estudante de **Análise e Desenvolvimento de Sistemas** com experiência em suporte a sistemas corporativos. Minha paixão é a **infraestrutura** e a **cibersegurança**, áreas onde busco aprofundar meus conhecimentos em **Redes** e **Linux**. Estou em constante aprendizado, utilizando **Java** para solidificar a lógica de programação e o **GitHub** como meu diário de bordo.
-
----
-
 ## Tecnologias em estudo
 
 <div align="center">
