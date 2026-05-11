@@ -24,7 +24,7 @@ public class MatheusArtioli {
 
     // ─── Interesses e Estudos ──────────────────────────────────────────────────
     private final String[] trilhaDeEstudos = {
-        "Java (POO e lógica)",
+        "Java",
         "Redes de Computadores",
         "Linux",
         "Cibersegurança"
