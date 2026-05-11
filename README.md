@@ -1,10 +1,6 @@
 <div align="center">
 
-# Matheus Artioli
-
 </div>
-
----
 
 ```java
 /**
