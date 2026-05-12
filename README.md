@@ -5,9 +5,7 @@
 ```java
 /**
  * @author  Matheus Artioli
- * @github  github.com/msartioli
  * @version 0.1.0-ALPHA
- *
  * Perfil em desenvolvimento.
  * Foco em Infraestrutura e Cibersegurança.
  */
@@ -36,8 +34,7 @@ public class MatheusArtioli {
 
     // ─── Contato ───────────────────────────────────────────────────────────────
     public void getContato() {
-        System.out.println("LinkedIn: linkedin.com/in/msartioli");
-        System.out.println("GitHub: github.com/msartioli");
+        System.out.println("LinkedIn: linkedin.com/in/matheusartioli");
     }
 }
 ```
