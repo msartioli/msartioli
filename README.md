@@ -29,7 +29,7 @@ public class MatheusArtioli {
     // ─── Objetivo ──────────────────────────────────────────────────────────────
     public String getObjetivo() {
         return """
-            Construir uma carreira sólida em Suporte Técnico, Infraestrutura,
+            Construir uma carreira em Suporte Técnico, Infraestrutura,
             Redes, NOC ou Cibersegurança.
         """;
     }
@@ -42,15 +42,7 @@ public class MatheusArtioli {
 }
 ```
 
-## Tecnologias em estudo
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 </div>
-
----
 
 <div align="center">
   <sub>
