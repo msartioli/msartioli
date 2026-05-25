@@ -5,7 +5,7 @@
 ```java
 /**
  * @author  Matheus Artioli
- * @version 0.1.1-ALPHA
+ * @version 0.1.0-ALPHA
  * Perfil em desenvolvimento.
  * Foco em Infraestrutura e Cibersegurança.
  */
