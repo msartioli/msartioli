@@ -1,52 +1,50 @@
-<div align="center">
-
 ```java
 /**
  * @author  Matheus Artioli
- * @version 0.2.0-BETA
- * Backend Java em formação.
+ * @version 1.0.0
+ * @profile Backend Java
  */
 
 public class MatheusArtioli {
 
-    // ─── Perfil ────────────────────────────────────────────────────────────────
-    private final String nome        = "Matheus Artioli";
+    // ─── Identidade ────────────────────────────────────────────────────────────
+    private final String nome = "Matheus Artioli";
     private final String localizacao = "São Paulo, SP";
-    private final String formacao    = "Análise e Desenvolvimento de Sistemas";
+    private final String area = "Desenvolvimento Backend";
 
-    // ─── Foco Atual ────────────────────────────────────────────────────────────
-    private final String objetivo = "Desenvolvimento Backend Java";
-
-    // ─── Estudando Atualmente ──────────────────────────────────────────────────
-    private final String[] estudando = {
+    // ─── Stack Principal ───────────────────────────────────────────────────────
+    private final String[] stack = {
         "Java",
-        "Programação Orientada a Objetos",
-        "Coleções",
-        "APIs REST",
         "Spring Boot",
-        "Spring Data JPA",
+        "APIs REST",
         "SQL",
-        "Git e GitHub"
+        "Git",
+        "GitHub"
     };
 
-    // ─── Projetos em Desenvolvimento ───────────────────────────────────────────
+    // ─── Base Técnica ──────────────────────────────────────────────────────────
+    private final String[] fundamentos = {
+        "Programação Orientada a Objetos",
+        "Estrutura de Dados",
+        "Coleções",
+        "Tratamento de Exceções",
+        "Banco de Dados Relacional",
+        "Arquitetura em Camadas"
+    };
+
+    // ─── Projetos ──────────────────────────────────────────────────────────────
     private final String[] projetos = {
-        "APIs REST com Spring Boot",
-        "CRUDs com Java e banco de dados",
-        "Projetos backend organizados em camadas"
+        "APIs REST com Java e Spring Boot",
+        "CRUDs com persistência em banco de dados",
+        "Aplicações backend organizadas em Controller, Service e Repository"
     };
 
     // ─── Objetivo Profissional ─────────────────────────────────────────────────
     public String getObjetivo() {
         return """
-            Conquistar uma oportunidade como Estagiário
-            ou Desenvolvedor Backend Java Júnior.
+            Atuar com Desenvolvimento Backend Java,
+            criando APIs, regras de negócio e soluções orientadas a dados.
         """;
-    }
-
-    // ─── Status ────────────────────────────────────────────────────────────────
-    public String getStatus() {
-        return "Em evolução constante.";
     }
 
     // ─── Contato ───────────────────────────────────────────────────────────────
@@ -57,10 +55,6 @@ public class MatheusArtioli {
 }
 ```
 
-</div>
-
-<div align="center">
-  <sub>
-    <code>// main method em construção.</code>
-  </sub>
-</div>
+```java
+// Java • Spring Boot • SQL • APIs REST • Backend
+```
