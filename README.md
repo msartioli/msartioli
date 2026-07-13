@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/86i6QsD.png" alt="Seja bem-vindo ao GitHub de Matheus Artioli" width="100%">
+  <img src="https://i.imgur.com/86i6QsD.png"
+       alt="Seja bem-vindo ao GitHub de Matheus Artioli"
+       width="82%">
 </p>
 
 <div align="center">
@@ -30,7 +32,9 @@ matheus := Perfil{
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/NsvcoGr.png" alt="Um pouco sobre Matheus Artioli" width="100%">
+  <img src="https://i.imgur.com/NsvcoGr.png"
+       alt="Um pouco sobre Matheus Artioli"
+       width="68%">
 </p>
 
 Minha trajetória profissional começou próxima de **sistemas, usuários e problemas operacionais reais**. Atualmente, atuo como Assistente Administrativo no Grupo Innova Steel, com atividades que envolvem suporte a franqueados, elaboração e acompanhamento de orçamentos, planilhas e forecast, consultas SQL no sistema Orion, ERP Construshow, dashboards, relatórios, análise de inconsistências e suporte a usuários.
@@ -67,7 +71,9 @@ Busco minha primeira oportunidade profissional como desenvolvedor de software j�
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/JEuuh2q.png" alt="Tecnologias utilizadas por Matheus Artioli" width="100%">
+  <img src="https://i.imgur.com/JEuuh2q.png"
+       alt="Tecnologias utilizadas por Matheus Artioli"
+       width="74%">
 </p>
 
 <table>
