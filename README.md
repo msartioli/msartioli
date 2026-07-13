@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/kduWKlN.png" alt="Seja bem-vindo ao perfil de Matheus Artioli" width="100%">
+  <img
+    src="https://i.imgur.com/kduWKlN.png"
+    alt="Seja bem-vindo ao perfil de Matheus Artioli"
+    width="100%"
+  >
 </p>
 
 <div align="center">
@@ -13,14 +17,14 @@ São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/matheusartioli)
 </div>
 
 ```go
-type Matheus struct {
-    Formacao   string
+type Perfil struct {
+    Formacao    string
     Experiencia []string
     Tecnologias []string
-    Objetivo   string
+    Objetivo    string
 }
 
-perfil := Matheus{
+matheus := Perfil{
     Formacao: "Análise e Desenvolvimento de Sistemas",
     Experiencia: []string{
         "sistemas",
@@ -36,6 +40,7 @@ perfil := Matheus{
         "APIs REST",
         "SQL",
         "Git",
+        "GitHub",
     },
     Objetivo: "primeira oportunidade como desenvolvedor de software júnior",
 }
@@ -48,27 +53,61 @@ perfil := Matheus{
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/bYmPiZW.png" alt="Um pouco sobre Matheus Artioli" width="100%">
+  <img
+    src="https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif"
+    alt="Quando o código funciona e ninguém quer mexer"
+    width="330"
+  >
 </p>
 
-Minha experiência profissional é próxima de **sistemas, usuários e processos reais**. No Grupo Innova Steel, atuo com suporte a franqueados, orçamentos, planilhas e forecast, consultas SQL no sistema Orion, ERP Construshow, dashboards, relatórios e análise de inconsistências.
+<p align="center">
+  <sub>
+    Funcionou. Agora ninguém encosta até entendermos o motivo.
+  </sub>
+</p>
 
-Esse contato diário com sistemas me ensinou a investigar problemas, compreender fluxos e comunicar soluções com clareza. Agora, aplico essa experiência na construção de software com **Go, Angular, TypeScript, APIs REST e SQL**.
+<br>
 
-Busco minha primeira oportunidade profissional como desenvolvedor júnior, com disposição para aprender, receber revisão de código e evoluir ao lado de profissionais mais experientes.
+<p align="center">
+  <img
+    src="https://i.imgur.com/bYmPiZW.png"
+    alt="Um pouco sobre Matheus Artioli"
+    width="100%"
+  >
+</p>
+
+Minha experiência profissional é próxima de **sistemas, usuários e processos reais**.
+
+No Grupo Innova Steel, atuo com suporte a franqueados, elaboração e acompanhamento de orçamentos, planilhas e forecast, consultas SQL no sistema Orion, ERP Construshow, dashboards, relatórios, análise de inconsistências e suporte a usuários.
+
+Esse contato diário com sistemas me ensinou a:
+
+- investigar problemas;
+- compreender fluxos e processos;
+- analisar inconsistências;
+- atender usuários;
+- comunicar soluções com clareza;
+- acompanhar um problema até sua resolução.
+
+Atualmente, aplico essa experiência na construção de software com **Go, Angular, TypeScript, APIs REST, SQL, Git e GitHub**.
+
+Busco minha primeira oportunidade profissional como desenvolvedor de software júnior, com disposição para aprender, receber revisão de código e evoluir ao lado de profissionais mais experientes.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Experiência real</strong><br><br>
+      <strong>Experiência real</strong>
+      <br><br>
       Sistemas, SQL, ERP, suporte a usuários e resolução de problemas operacionais.
     </td>
     <td width="33%" valign="top">
-      <strong>Direção técnica</strong><br><br>
+      <strong>Direção técnica</strong>
+      <br><br>
       Back-end com Go, integração por APIs REST e interfaces com Angular e TypeScript.
     </td>
     <td width="33%" valign="top">
-      <strong>Forma de trabalhar</strong><br><br>
+      <strong>Forma de trabalhar</strong>
+      <br><br>
       Entregas pequenas, documentação clara, abertura para feedback e melhoria contínua.
     </td>
   </tr>
@@ -77,16 +116,36 @@ Busco minha primeira oportunidade profissional como desenvolvedor júnior, com d
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/Mp9ewT6.png" alt="Tecnologias utilizadas por Matheus Artioli" width="100%">
+  <img
+    src="https://media1.tenor.com/m/97gs87bOyQAAAAAd/debugging-programming.gif"
+    alt="Debugging e resolução de problemas"
+    width="360"
+  >
+</p>
+
+<p align="center">
+  <sub>
+    Corrigir um problema, testar novamente e descobrir de onde veio a próxima bagunça.
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://i.imgur.com/Mp9ewT6.png"
+    alt="Tecnologias utilizadas por Matheus Artioli"
+    width="100%"
+  >
 </p>
 
 <div align="center">
 
-As tecnologias acima aparecem nos meus estudos e projetos de portfólio, sempre com foco em código funcional, organização e documentação.
+As tecnologias acima fazem parte dos meus estudos e projetos de portfólio, com foco em código funcional, organização e documentação.
 
 <br>
 
-### Contato
+### Contato profissional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Artioli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusartioli)
 
