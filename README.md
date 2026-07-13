@@ -46,26 +46,6 @@ matheus := Perfil{
 }
 ```
 
-<p align="center">
-  <sub>Entender o problema, construir o fluxo principal e melhorar com revisão.</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://media1.tenor.com/m/fJAoBHWymY4AAAAd/do-not-touch-it-programmer.gif"
-    alt="Quando o código funciona e ninguém quer mexer"
-    width="330"
-  >
-</p>
-
-<p align="center">
-  <sub>
-    Funcionou. Agora ninguém encosta até entendermos o motivo.
-  </sub>
-</p>
-
 <br>
 
 <p align="center">
