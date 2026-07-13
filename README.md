@@ -95,7 +95,7 @@ Busco minha primeira oportunidade profissional como desenvolvedor de software j�
 
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/97gs87bOyQAAAAAd/debugging-programming.gif"
+    src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif"
     alt="Debugging e resolução de problemas"
     width="360"
   >
