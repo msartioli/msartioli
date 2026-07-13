@@ -10,7 +10,7 @@
 
 ### Matheus Artioli
 
-Estudante de **Análise e Desenvolvimento de Sistemas** em transição para desenvolvimento de software.
+Estudante de **Análise e Desenvolvimento de Sistemas**
 
 São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/matheusartioli)
 
@@ -122,11 +122,5 @@ Busco minha primeira oportunidade profissional como desenvolvedor de software j�
 <div align="center">
 
 As tecnologias acima fazem parte dos meus estudos e projetos de portfólio, com foco em código funcional, organização e documentação.
-
-<br>
-
-### Contato profissional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Artioli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusartioli)
 
 </div>
