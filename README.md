@@ -6,16 +6,6 @@
   >
 </p>
 
-<div align="center">
-
-### Matheus Artioli
-
-Estudante de **Análise e Desenvolvimento de Sistemas**
-
-São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/matheusartioli)
-
-</div>
-
 ```go
 type Perfil struct {
     Formacao    string
@@ -97,6 +87,14 @@ Busco minha primeira oportunidade profissional como desenvolvedor de software j�
 
 <p align="center">
   <img
+    src="https://i.imgur.com/Mp9ewT6.png"
+    alt="Tecnologias utilizadas por Matheus Artioli"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  <img
     src="https://media1.tenor.com/m/97gs87bOyQAAAAAd/debugging-programming.gif"
     alt="Debugging e resolução de problemas"
     width="360"
@@ -108,19 +106,3 @@ Busco minha primeira oportunidade profissional como desenvolvedor de software j�
     Corrigir um problema, testar novamente e descobrir de onde veio a próxima bagunça.
   </sub>
 </p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://i.imgur.com/Mp9ewT6.png"
-    alt="Tecnologias utilizadas por Matheus Artioli"
-    width="100%"
-  >
-</p>
-
-<div align="center">
-
-As tecnologias acima fazem parte dos meus estudos e projetos de portfólio, com foco em código funcional, organização e documentação.
-
-</div>
