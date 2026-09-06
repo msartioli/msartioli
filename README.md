@@ -32,17 +32,17 @@ Estou buscando minha primeira vaga como Desenvolvedor(a) Backend Júnior ou esta
 
 <p align="center">
 <a href="https://github.com/msartioli/helpdesk-api-go">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=msartioli&repo=helpdesk-api-go&theme=tokyonight&hide_border=true" alt="helpdesk-api-go"/>
+<img src="https://msartioli-stats.vercel.app/api/pin/?username=msartioli&repo=helpdesk-api-go&theme=tokyonight&hide_border=true" alt="helpdesk-api-go"/>
 </a>
 <a href="https://github.com/msartioli/go-site-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=msartioli&repo=go-site-monitor&theme=tokyonight&hide_border=true" alt="go-site-monitor"/>
+<img src="https://msartioli-stats.vercel.app/api/pin/?username=msartioli&repo=go-site-monitor&theme=tokyonight&hide_border=true" alt="go-site-monitor"/>
 </a>
 </p>
 
 ## 📈 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=msartioli&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="stats" height="165"/>
+<img src="https://msartioli-stats.vercel.app/api?username=msartioli&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=msartioli&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
 </p>
 
